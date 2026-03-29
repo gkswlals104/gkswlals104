@@ -10,13 +10,6 @@
 
 ---
 
-## ☁️ About Me
-- 🍎 iOS 개발 공부중
-- 📱 SwiftUI 배우는 중
-- 💙 깔끔한 UI 좋아함
-
----
-
 ## 🫧 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
