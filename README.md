@@ -1,7 +1,12 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=header"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=87CEEB&size=28&center=true&vCenter=true&width=500&lines=🍎+jimin+github+🍎">
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=header"/>
 </p>
 
 <p align="center">
