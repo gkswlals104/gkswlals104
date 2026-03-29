@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/ae/95/cc/ae95cc2080782812a0df629adbcdef44.jpg"/>
+  <img src="https://i.pinimg.com/736x/0c/ee/90/0cee9005c3190579cb49fe58d7927ad2.jpg"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=87CEEB&size=28&center=true&vCenter=true&width=500&lines=🍎+jimin+github+🍎">
 </p>
+
 <p align="center">
-  <img src="https://i.pinimg.com/736x/ae/95/cc/ae95cc2080782812a0df629adbcdef44.jpg"/>
+  <img src="https://i.pinimg.com/736x/0c/ee/90/0cee9005c3190579cb49fe58d7927ad2.jpg"/>
 </p>
 
 <p align="center">
