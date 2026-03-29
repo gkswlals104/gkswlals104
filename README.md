@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=30&center=true&vCenter=true&width=600&lines=Hello+👋;Kimsuhhee04+GitHub;SwiftUI+공부중+🍎">
+</h1>
 
-<!--
-**gkswlals104/gkswlals104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="200"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🩷 About Me
+- iOS 개발 공부중
+- SwiftUI 배우는 중
+
+---
+
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Kimsuhhee04&show_icons=true&theme=radical" />
+
+---
+
+## 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimsuhhee04&theme=tokyo-night" />
