@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=87CEEB&size=28&center=true&vCenter=true&width=500&lines=jimin%20github">
+  <img src="https://readme-typing-svg.herokuapp.com?color=87CEEB&size=28&center=true&vCenter=true&width=500&lines=%F0%9F%8D%8E%20jimin%20github%20%F0%9F%8D%8E">
 </p>
 
 <p align="center">
