@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/51/2c/46/512c46fda47c9561fa73d84fdaf76e84.png"/>
+  <img src="https://i.pinimg.com/736x/b0/8e/76/b08e763dff9458f7d8d5141ffc2f5a43.jpg"/>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/51/2c/46/512c46fda47c9561fa73d84fdaf76e84.png"/>
+  <img src="https://i.pinimg.com/736x/b0/8e/76/b08e763dff9458f7d8d5141ffc2f5a43.jpg"/>
 </p>
 
 <p align="center">
