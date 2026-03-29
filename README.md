@@ -2,7 +2,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=28&center=true&vCenter=true&width=500&lines=jimin+;jimin github;SwiftUI+공부중+🍎">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=87CEEB&size=28&center=true&vCenter=true&width=500&lines=jimin+🧩;jimin github;SwiftUI+공부중+🍎">
 </p>
 
 <p align="center">
